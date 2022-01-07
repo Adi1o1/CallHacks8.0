@@ -1,0 +1,53 @@
+.buttonCard {
+  background-color: #f6f5f1;
+  padding: 20px;
+  border-radius: 30px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.bookButton {
+  font-weight: bold;
+  color: #f6f5f1;
+  /* width: 50%; */
+}
+
+.contactInfo {
+  padding: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+
+  background: #c4c4c4;
+  font-family: Oxygen;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: center;
+
+  color: #6b532e;
+}
+.centerAlign {
+  text-align: center;
+}
+
+.middleAlign {
+  align-self: center;
+}
+
+.rightAlign {
+  text-align: right;
+}
+
+.photos {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.cardContainer {
+  margin-bottom: 50px;
+}
+
+.marginTop {
+  margin-top: 20px;
+}
